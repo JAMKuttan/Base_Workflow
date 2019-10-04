@@ -1,0 +1,12 @@
+# Custom Logo
+custom_logo: 'bicf_logo.png'
+custom_logo_url: 'https://www.utsouthwestern.edu/labs/bioinformatics/'
+custom_logo_title: 'Bioinformatics Core Facility'
+
+report_header_info:
+    - Contact E-mail: 'bicf@utsouthwestern.edu'
+    - Application Type: 'Base Workflow'
+    - Department: 'Bioinformatic Core Facility, Department of Bioinformatics'
+
+# Title to use for the report.
+title: BICF Report
